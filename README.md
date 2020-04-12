@@ -3,6 +3,8 @@ A simple image processing approach to solve maze using morphological operations
 
 reference: [Guide to Signals and Patterns in Image Processing](https://link.springer.com/book/10.1007/978-3-319-14172-5)
 
+run live colab [demo](https://colab.research.google.com/github/vishnu89chand/python_solve_maze/blob/master/python_solve_maze.ipynb)
+
 
 Hints:
 *   A maze consists of walls (255) and paths (0)
